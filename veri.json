@@ -2719,5 +2719,2995 @@
     "photos": ""
   },
   "onThisDay": {},
-  "extraPlayers": []
+  "extraPlayers": [
+    {
+      "name": "Alexander Nübel",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Doğan Alemdar",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Emir Yaşar",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Kassoum Ouattara",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Emmanuel Agbadou",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Taylan Bulut",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Rıdvan Yılmaz",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Tiago Djaló",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ümit Akdağ",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Emirhan Topçu",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Yasin Özcan",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Michael Murillo",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Wilfred Ndidi",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Salih Özcan",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Kartal Yılmaz",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Orkun Kökçü",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Junior Olaitan",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Václav Černý",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Leandro Trossard",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Fabio Miretti",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "İlhan Fakılı",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Hyeon-gyu Oh",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Ernest Poku",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Dušan Vlahović",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Semih Kılıçsoy",
+      "team": "Beşiktaş",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Uğurcan Çakır",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Günay Güvenç",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Jankat Yılmaz",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Enes Emre Büyük",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Abdülkerim Bardakcı",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Davinson Sánchez",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "El Chadaille Bitshiabu",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Wilfried Singo",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Eren Elmalı",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ismail Jakobs",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Aleksey Batrakov",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Gabriel Sara",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "İlkay Gündoğan",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Mario Lemina",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Lucas Torreira",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Renato Nhaga",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Lesley Ugochukwu",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Yunus Akgün",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Victor Osimhen",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Barış Alper Yılmaz",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Rafael Leão",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Leroy Sané",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Deniz Gül",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Roland Sallai",
+      "team": "Galatasaray",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ahmet Doğan Yıldırım",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "André Onana",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Samet Akaydin",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Stefan Savić",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Mustafa Eskihellaç",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Wagner Pina",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Chibuike Nwaiwu",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Cenk Özkacar",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Arsenii Batahov",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Sidny Lopes Cabral",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Defans"
+    },
+    {
+      "name": "Batista Mendy",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Fabinho",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ernest Muçi",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Benjamin Bouchouari",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ozan Tufan",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ruslan Malinovskyi",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Tim Jabol-Folcarelli",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Djú Franculino",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Mohamed Salah",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Paul Onuachu",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Aral Şimşir",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Noah Saviolo",
+      "team": "Trabzonspor",
+      "league": "Süper Lig",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Senne Lammens",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Karl Darlow",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Tom Heaton",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Dermot Mee",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Diogo Dalot",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Noussair Mazraoui",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Matthijs de Ligt",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Harry Maguire",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Lisandro Martínez",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Patrick Dorgu",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Luke Shaw",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Mason Mount",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Bruno Fernandes",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Andrey Santos",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Youri Tielemans",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Carlos Baleba",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Manuel Ugarte",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ayden Heaven",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Marcus Rashford",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Matheus Cunha",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Joshua Zirkzee",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Amad Diallo",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Bryan Mbeumo",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Benjamin Šeško",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Tynan Thompson",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Leny Yoro",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Harry Amass",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Kobbie Mainoo",
+      "team": "Manchester United",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Alisson Becker",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Giorgi Mamardashvili",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Freddie Woodman",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Vítězslav Jaroš",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Joe Gomez",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Virgil van Dijk",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jérémy Jacquet",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Milos Kerkez",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Conor Bradley",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Giovanni Leoni",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Kostas Tsimikas",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jeremie Frimpong",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ronald Araújo",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Luke Chambers",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Isaac Mabaya",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Florian Wirtz",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Dominik Szoboszlai",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Víctor Muñoz",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ryan Gravenberch",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "James McConnell",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Alexander Isak",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Cody Gakpo",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Hugo Ekitiké",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Bradley Barcola",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Wataru Endo",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Federico Chiesa",
+      "team": "Liverpool",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Kepa Arrizabalaga",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "David Raya",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Illan Meslier",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Riccardo Calafiori",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Gabriel Magalhães",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Piero Hincapié",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Cristhian Mosquera",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jurriën Timber",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ezri Konsa",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "William Saliba",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ben White",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Bruno Guimarães",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Mikel Merino",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Martin Ødegaard",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Martín Zubimendi",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Declan Rice",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Eberechi Eze",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Viktor Gyökeres",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Kai Havertz",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Christos Tzolis",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Noni Madueke",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Bukayo Saka",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Myles Lewis-Skelly",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ethan Nwaneri",
+      "team": "Arsenal",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Gianluigi Donnarumma",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Marcus Bettinelli",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Gerónimo Rulli",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Max-Edgar Chabot",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Rúben Dias",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Marc Guéhi",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Rayan Aït-Nouri",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Vitor Reis",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Joško Gvardiol",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Abdukodir Khusanov",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Rico Lewis",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Elliot Anderson",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Mateo Kovačić",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Rayan Cherki",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Jérémy Doku",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Enzo Fernández",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Matheus Nunes",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ayyoub Bouaddi",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Phil Foden",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Iliman Ndiaye",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Erling Haaland",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Allan Elias",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Antoine Semenyo",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Nico O'Reilly",
+      "team": "Manchester City",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Emiliano Martínez",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Teddy Sharman-Lowe",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Mike Penders",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Gabriel Słonina",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Marco Palestra",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Wesley Fofana",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Maxence Lacroix",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Levi Colwill",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jorrel Hato",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Reece James",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Malo Gusto",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Josh Acheampong",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Defans"
+    },
+    {
+      "name": "Valentín Barco",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Pedro Neto",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Jordan Henderson",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Geovany Quenda",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Moisés Caicedo",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Pep Chavarría",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Roméo Lavia",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "João Pedro",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Cole Palmer",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Jamie Gittens",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Morgan Rogers",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Danny Welbeck",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Emanuel Emegha",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Estêvão Willian",
+      "team": "Chelsea",
+      "league": "Premier League",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Thibaut Courtois",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Andriy Lunin",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Raúl Asencio",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Éder Militão",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Dean Huijsen",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Trent Alexander-Arnold",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ibrahima Konaté",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Marc Cucurella",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Álvaro Carreras",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Antonio Rüdiger",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Denzel Dumfries",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jude Bellingham",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Eduardo Camavinga",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Federico Valverde",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Aurélien Tchouaméni",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Arda Güler",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Bernardo Silva",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Yan Diomande",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Sergio Martínez",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Vinícius Júnior",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Endrick",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Kylian Mbappé",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Rodrygo",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Carlos Espí",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Brahim Díaz",
+      "team": "Real Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Joan García",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Wojciech Szczęsny",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Dominik Livaković",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "João Cancelo",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Alejandro Balde",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Pau Cubarsí",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Xavi Espart",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Andreas Christensen",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Gerard Martín",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jules Koundé",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Eric García",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Gavi",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Pedri",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Rodri",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Frenkie de Jong",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Marc Bernal",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Fermín López",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Gabriel Jesus",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Lamine Yamal",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Raphinha",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Karim Adeyemi",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Anthony Gordon",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Dani Olmo",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Jesse Bisiwu",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Hamza Abdelkarim",
+      "team": "Barcelona",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Juan Musso",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Jan Oblak",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Dávid Hancko",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Marc Pubill",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Cristian Romero",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Alejandro Grimaldo",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Robin Le Normand",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Dani Martínez",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Arnau Solà",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Obed Vargas",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Rodrigo Mendoza",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Johnny Cardoso",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Koke",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Kang-in Lee",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Pablo Barrios",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Álex Baena",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Marcos Llorente",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Morten Hjulmand",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Alexander Sørloth",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Ademola Lookman",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Jonathan David",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Arnau Ortiz",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Julián Álvarez",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Giuliano Simeone",
+      "team": "Atlético Madrid",
+      "league": "La Liga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Kamil Grabara",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Carlo Pinsoglio",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Guglielmo Vicario",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Zeki Çelik",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Bremer",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Federico Gatti",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Lloyd Kelly",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Pierre Kalulu",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Andrea Cambiaso",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jhon Lucumí",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Juan Cabal",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Manuel Locatelli",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Teun Koopmeiners",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Douglas Luiz",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Kerim Alajbegović",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Weston McKennie",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Pape Sarr",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Francisco Conceição",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Randal Kolo Muani",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Jérémie Boga",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Nick Woltemade",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Nicolás González",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Kenan Yıldız",
+      "team": "Juventus",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Josep Martínez",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Raffaele Di Gennaro",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Ivan Provedel",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Manuel Akanji",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Benjamin Pavard",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Carlos Augusto",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Yann Bisseck",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Federico Dimarco",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Alessandro Bastoni",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Djed Spence",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "John Stones",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Hakan Çalhanoğlu",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Piotr Zieliński",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Petar Sučić",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Nicolò Barella",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Curtis Jones",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Andy Diouf",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Mattia Marello",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Marcus Thuram",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Luis Henrique",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Ange-Yoan Bonny",
+      "team": "Inter",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Pietro Terracciano",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Mike Maignan",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Lorenzo Torriani",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Pervis Estupiñán",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Koni De Winter",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Sankhoun Diawara",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Fikayo Tomori",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Strahinja Pavlović",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Davide Bartesaghi",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Mario Gila",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Valeri Vladimirov",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Filippo Terracciano",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Matteo Gabbia",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ruben Loftus-Cheek",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Christian Pulisic",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Adrien Rabiot",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Luka Modrić",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Omari Hutchinson",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Diego Moreira",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Christian Comotto",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ardon Jashari",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Alexis Saelemaekers",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Alphadjo Cisse",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Yunus Musah",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Gonçalo Ramos",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Samuel Chukwueze",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Francesco Camarda",
+      "team": "AC Milan",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Nikita Contini",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Alex Meret",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Vanja Milinković-Savić",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Benoît Badiashile",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Sam Beukema",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Rafa Marín",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Amir Rrahmani",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Mathías Olivera",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Leonardo Spinazzola",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Giovanni Di Lorenzo",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Defans"
+    },
+    {
+      "name": "Kevin De Bruyne",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Billy Gilmour",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Stanislav Lobotka",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Scott McTominay",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Antonio Vergara",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Franck Zambo Anguissa",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Costantino Favasuli",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "David Neres",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Alisson Santos",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Rasmus Højlund",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Noa Lang",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Lorenzo Lucca",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Matteo Politano",
+      "team": "Napoli",
+      "league": "Serie A",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Manuel Neuer",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Sven Ulreich",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Jonas Urbig",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Dayot Upamecano",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Kim Min-jae",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jonathan Tah",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Nathaniel Brown",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Hiroki Ito",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Sacha Boey",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Josip Stanišić",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Joshua Kimmich",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Tom Bischof",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Jamal Musiala",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Michael Olise",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Alphonso Davies",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Konrad Laimer",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ismael Saibari",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Bara Sapoko Ndiaye",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Aleksandar Pavlović",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Serge Gnabry",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Harry Kane",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Luis Díaz",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Bastian Assomo",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Maycon Cardozo",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Lennart Karl",
+      "team": "Bayern Münih",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Gregor Kobel",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Alexander Meyer",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Diant Ramaj",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Patrick Drewes",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Silas Ostrzinski",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Waldemar Anton",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Nico Schlotterbeck",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ramy Bensebaini",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Daniel Svensson",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Julian Ryerson",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Filippo Mané",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Almugera Kabar",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Joane Gadou",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Kauã Prates",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Luca Reggiani",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Defans"
+    },
+    {
+      "name": "Jobe Bellingham",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Felix Nmecha",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Carney Chukwuemeka",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ethan Nwaneri",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Konstantinos Karetsas",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Marcel Sabitzer",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Emre Can",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Joey Veerman",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Giannis Konstantelias",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Justin Lerma",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Mussa Kaba",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Serhou Guirassy",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Maximilian Beier",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Fábio Silva",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Samuele Inacio Piá",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Mathis Albert",
+      "team": "Borussia Dortmund",
+      "league": "Bundesliga",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Alessandro Longoni",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Lucas Chevalier",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Matvei Safonov",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Achraf Hakimi",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Lucas Beraldo",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Marquinhos",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Illia Zabarnyi",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Lucas Digne",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Lucas Hernández",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Nuno Mendes",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Willian Pacho",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Fabián Ruiz",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Maghnes Akliouche",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Vitinha",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Senny Mayulu",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Dro Fernández",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Warren Zaïre-Emery",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "João Neves",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Khvicha Kvaratskhelia",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Ferran Torres",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Ousmane Dembélé",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Désiré Doué",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Mika Godts",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Quentin Ndjantou",
+      "team": "Paris Saint-Germain",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Jeffrey de Lange",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Jelle van Neck",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Theo Vermot",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "CJ Egan-Riley",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Derek Cornelius",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Bamo Meité",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Nayef Aguerd",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ulisses Garcia",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Emerson",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Alexi Koum",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Tochukwu Nnadi",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Angel Gomes",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Himad Abdelli",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Geoffrey Kondogbia",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Timothy Weah",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Pierre-Emile Højbjerg",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Nouhoum Kamissoko",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Amine Harit",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Amine Gouiri",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Neal Maupay",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Igor Paixão",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Faris Moumbagna",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Keyliane Abdallah",
+      "team": "Marsilya",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Dominik Greif",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Rémy Descamps",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Kaleci"
+    },
+    {
+      "name": "Nicolás Tagliafico",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Zachary Athekame",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Abner Vinicius",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Moussa Niakhaté",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Felix Bacher",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Ruben Kluivert",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Clinton Mata",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Steeve Kango",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Mohamed Ouédraogo",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Noham Kamara",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Defans"
+    },
+    {
+      "name": "Mads Bidstrup",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Tanner Tessmann",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Corentin Tolisso",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Pavel Šulc",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Khalis Merah",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Tyler Morton",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Julien Duranville",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Noah Nartey",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Orta saha"
+    },
+    {
+      "name": "Ernest Nuamah",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Keito Nakamura",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Loïs Openda",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Kail Boudache",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    },
+    {
+      "name": "Rémi Himbert",
+      "team": "Lyon",
+      "league": "Ligue 1",
+      "pos": "Forvet"
+    }
+  ],
+  "extraPlayersNote": "Kaynak: guncel_futbolcu_kadrolari.xlsx (UEFA kadro bildirimleri, Eylül 2026). Kulüp başına resmi liste, tam kadro değil."
 }
