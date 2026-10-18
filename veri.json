@@ -1,24 +1,33 @@
 {
   "version": "2.2",
-  "updatedAt": "2026-10-15T13:05:00+03:00",
+  "updatedAt": "2026-10-17T20:00:00+03:00",
   "standings": [
     {
       "name": "Galatasaray",
-      "o": 7,
-      "g": 5,
+      "o": 8,
+      "g": 6,
       "b": 1,
       "m": 1,
-      "a": 16,
+      "a": 17,
       "y": 11
     },
     {
       "name": "Amed Sportif Faaliyetler",
-      "o": 7,
-      "g": 4,
+      "o": 8,
+      "g": 5,
       "b": 2,
       "m": 1,
-      "a": 17,
+      "a": 18,
       "y": 9
+    },
+    {
+      "name": "Fenerbahçe",
+      "o": 8,
+      "g": 5,
+      "b": 1,
+      "m": 2,
+      "a": 22,
+      "y": 6
     },
     {
       "name": "Beşiktaş",
@@ -28,6 +37,24 @@
       "m": 2,
       "a": 16,
       "y": 8
+    },
+    {
+      "name": "Trabzonspor",
+      "o": 7,
+      "g": 4,
+      "b": 1,
+      "m": 2,
+      "a": 16,
+      "y": 5
+    },
+    {
+      "name": "Arca Çorum FK",
+      "o": 8,
+      "g": 4,
+      "b": 1,
+      "m": 3,
+      "a": 18,
+      "y": 13
     },
     {
       "name": "Kocaelispor",
@@ -40,39 +67,30 @@
     },
     {
       "name": "Corendon Alanyaspor",
-      "o": 7,
+      "o": 8,
       "g": 3,
       "b": 3,
-      "m": 1,
+      "m": 2,
       "a": 8,
-      "y": 6
+      "y": 9
     },
     {
-      "name": "Fenerbahçe",
-      "o": 6,
+      "name": "Erzurumspor",
+      "o": 8,
       "g": 3,
-      "b": 1,
-      "m": 2,
-      "a": 16,
-      "y": 6
-    },
-    {
-      "name": "Trabzonspor",
-      "o": 7,
-      "g": 4,
-      "b": 1,
-      "m": 2,
-      "a": 16,
-      "y": 5
+      "b": 2,
+      "m": 3,
+      "a": 5,
+      "y": 11
     },
     {
       "name": "Çaykur Rizespor",
-      "o": 6,
+      "o": 8,
       "g": 3,
       "b": 1,
-      "m": 2,
-      "a": 7,
-      "y": 6
+      "m": 4,
+      "a": 8,
+      "y": 11
     },
     {
       "name": "Kasımpaşa",
@@ -93,15 +111,6 @@
       "y": 10
     },
     {
-      "name": "Arca Çorum FK",
-      "o": 7,
-      "g": 3,
-      "b": 1,
-      "m": 3,
-      "a": 16,
-      "y": 12
-    },
-    {
       "name": "İstanbul Başakşehir",
       "o": 7,
       "g": 2,
@@ -112,30 +121,30 @@
     },
     {
       "name": "Gençlerbirliği",
-      "o": 7,
+      "o": 8,
       "g": 2,
       "b": 2,
-      "m": 3,
+      "m": 4,
       "a": 7,
+      "y": 16
+    },
+    {
+      "name": "Göztepe",
+      "o": 7,
+      "g": 1,
+      "b": 3,
+      "m": 3,
+      "a": 15,
       "y": 15
     },
     {
-      "name": "Erzurumspor",
-      "o": 7,
-      "g": 2,
-      "b": 2,
-      "m": 3,
-      "a": 3,
-      "y": 11
-    },
-    {
       "name": "Konyaspor",
-      "o": 7,
+      "o": 8,
       "g": 1,
       "b": 2,
-      "m": 4,
+      "m": 5,
       "a": 4,
-      "y": 8
+      "y": 9
     },
     {
       "name": "Samsunspor",
@@ -147,22 +156,13 @@
       "y": 15
     },
     {
-      "name": "Göztepe",
-      "o": 6,
-      "g": 0,
-      "b": 3,
-      "m": 3,
-      "a": 11,
-      "y": 15
-    },
-    {
       "name": "Eyüpspor",
-      "o": 6,
+      "o": 8,
       "g": 1,
       "b": 0,
-      "m": 5,
+      "m": 7,
       "a": 2,
-      "y": 16
+      "y": 22
     }
   ],
   "matches": [
@@ -258,7 +258,7 @@
       "date": "2026-10-10T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-7",
-      "inBaseline": false,
+      "inBaseline": true,
       "sport": "Futbol",
       "detail": {
         "stadium": "Çaykur Didi Stadyumu"
@@ -270,14 +270,29 @@
       "week": 8,
       "home": "Fenerbahçe",
       "away": "Corendon Alanyaspor",
-      "score": "",
+      "score": "3-0",
       "date": "2026-10-17T19:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-8",
-      "inBaseline": false,
+      "inBaseline": true,
       "sport": "Futbol",
       "detail": {
-        "stadium": "Chobani Stadyumu"
+        "stadium": "Chobani Stadyumu",
+        "goals": [
+          {
+            "player": "Romelu Lukaku (Fenerbahçe)",
+            "minute": ""
+          },
+          {
+            "player": "Kerem Aktürkoğlu (Fenerbahçe)",
+            "minute": ""
+          },
+          {
+            "player": "Vedat Muriqi (Fenerbahçe)",
+            "minute": ""
+          }
+        ],
+        "goalsSource": "Taraftar bildirimi, dakikalar doğrulanmadı"
       },
       "prediction": null,
       "motmVotes": {}
@@ -815,7 +830,7 @@
       "date": "2026-10-12",
       "comp": "Süper Lig",
       "id": "w7-eyupspor-goztepe",
-      "inBaseline": false,
+      "inBaseline": true,
       "sport": "Futbol",
       "detail": {
         "stadium": ""
@@ -1538,6 +1553,156 @@
   ],
   "news": [
     {
+      "title": "Fenerbahçe, Alanyaspor’u 3-0 yendi",
+      "desc": "Sarı-lacivertliler, Corendon Alanyaspor’u 3-0 mağlup etti.",
+      "body": "Fenerbahçe, 8. hafta maçında Corendon Alanyaspor’u Chobani Stadyumu’nda 3-0 yendi. Galibiyetle puanını 16’ya yükseltti.",
+      "cat": "Maç",
+      "source": "Fenerbahçe SK",
+      "date": "17.10.2026",
+      "link": "https://www.fenerbahce.org/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "İsmail Kartal’dan Alanyaspor maçı sonrası açıklama",
+      "desc": "Teknik direktör, oyuncuların karakterini ve tepkisini övdü.",
+      "body": "Teknik direktör İsmail Kartal, oyuncularının çok güzel bir karakter gösterdiğini ve iyi bir reaksiyon verdiğini söyledi.",
+      "cat": "Kulüp",
+      "source": "Fenerbahçe SK",
+      "date": "17.10.2026",
+      "link": "https://www.fenerbahce.org/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe’nin Alanyaspor maçı ilk 11’i açıklandı",
+      "desc": "Sarı-lacivertlilerin maç öncesi kadrosu belli oldu.",
+      "body": "Fenerbahçe’nin Corendon Alanyaspor karşısındaki ilk 11’i kulübün resmi sitesinde yayımlandı. Maç 19.00’da başladı.",
+      "cat": "Maç",
+      "source": "Fenerbahçe SK",
+      "date": "17.10.2026",
+      "link": "https://www.fenerbahce.org/haberler/futbol/2026/10/fenerbahce-miz-c-alanyaspor-u-agirliyor",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Marco Asensio hakkında iddia: ameliyat kararı",
+      "desc": "Bir gazetenin iddiasına göre Asensio için ameliyat kararı verildi.",
+      "body": "A Spor’da yer alan habere göre, diz bölgesindeki iğne tedavisinden istenen sonucu alamayan Marco Asensio için ameliyat kararı verildi. Bu bir iddia olup, kulübün resmi açıklaması bekleniyor.",
+      "cat": "Kulüp",
+      "source": "Türkiye Gazetesi",
+      "date": "17.10.2026",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcede-asensio-depremi-ispanyol-yildizdan-yikan-haber-1823441",
+      "sport": "Futbol"
+    },
+    {
+      "title": "İsmail Kartal’dan Asensio yorumu",
+      "desc": "Teknik direktör, oyuncularıyla bir sorunu olmadığını söyledi.",
+      "body": "Alanyaspor maçının ardından İsmail Kartal, Asensio iddialarıyla ilgili olarak oyuncularıyla bir sorunu olmadığını belirtti.",
+      "cat": "Kulüp",
+      "source": "Türkiye Gazetesi",
+      "date": "17.10.2026",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahcede-asensio-depremi-ispanyol-yildizdan-yikan-haber-1823441",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe’de Lukaku kararı",
+      "desc": "Romelu Lukaku ile ilgili karar gündeme geldi.",
+      "body": "Fanatik’in Fenerbahçe sayfasında Romelu Lukaku ile ilgili bir kararın gündeme geldiği yer alıyor. Ayrıntı için kaynağa bakabilirsin.",
+      "cat": "Kulüp",
+      "source": "Fanatik",
+      "date": "17.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Unai Emery Fenerbahçe’nin yıldızına hayran kaldı",
+      "desc": "Aston Villa teknik direktörü bir Fenerbahçe oyuncusunu övdü.",
+      "body": "Haberde Aston Villa teknik direktörü Unai Emery’nin Fenerbahçe’nin bir yıldız oyuncusuna hayran kaldığı yazıyor. Ayrıntı için kaynağa bakabilirsin.",
+      "cat": "Rakip",
+      "source": "Fanatik",
+      "date": "17.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe’de hedef orta saha",
+      "desc": "Kulübün transfer gündeminde bir orta saha oyuncusu öne çıktı.",
+      "body": "Fanatik’in Fenerbahçe sayfasında, kulübün transfer hedefi olarak bir orta saha oyuncusunun gündeme geldiği yazıyor.",
+      "cat": "Transfer",
+      "source": "Fanatik",
+      "date": "17.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe’nin yeni forma kiti belli oldu",
+      "desc": "Sezonun yeni forması tanıtıldı.",
+      "body": "Fenerbahçe’nin yeni forma kiti belli oldu. Ayrıntılar için haber kaynağına bakabilirsin.",
+      "cat": "Kulüp",
+      "source": "Fanatik",
+      "date": "17.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Futbol takımının soyunma odası yenilendi",
+      "desc": "Kulüp, A takımın soyunma odası ve ortak alanlarını yeniledi.",
+      "body": "Fenerbahçe, A takımın soyunma odası ve ortak kullanım alanlarını baştan sona yeniledi.",
+      "cat": "Kulüp",
+      "source": "Fenerbahçe SK",
+      "date": "17.10.2026",
+      "link": "https://www.fenerbahce.org/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Beşiktaş BOA 81-69 Fenerbahçe Tarfin",
+      "desc": "Basketbol takımı Beşiktaş BOA’ya 81-69 yenildi.",
+      "body": "Basketbol takımımız Fenerbahçe Tarfin, Beşiktaş BOA deplasmanında 81-69 mağlup oldu.",
+      "cat": "Basketbol",
+      "source": "Fenerbahçe SK",
+      "date": "17.10.2026",
+      "link": "https://www.fenerbahce.org/",
+      "sport": "Basketbol"
+    },
+    {
+      "title": "Fenerbahçe Medicana 0-3 Ziraat Bankkart",
+      "desc": "Voleybol takımı Ziraat Bankkart’a 0-3 yenildi.",
+      "body": "Voleybol takımımız Fenerbahçe Medicana, sahasında Ziraat Bankkart’a 0-3 yenildi.",
+      "cat": "Voleybol",
+      "source": "Fenerbahçe SK",
+      "date": "17.10.2026",
+      "link": "https://www.fenerbahce.org/",
+      "sport": "Voleybol"
+    },
+    {
+      "title": "Aston Villa yenilgisinin ardından Oğuz Aydın alkışlandı",
+      "desc": "6-0 mağlubiyetin ardından bir oyuncu taraftarın alkışını aldı.",
+      "body": "Aston Villa’ya 6-0 mağlup olunan maçın ardından, sarı-lacivertli taraftarlar Oğuz Aydın’ı alkışladı.",
+      "cat": "Maç",
+      "source": "Sporx",
+      "date": "14.10.2026",
+      "link": "https://www.sporx.com/futbol-fenerbahce",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Aston Villa maçı sonrası taraftar tepkisi",
+      "desc": "Taraftarlar 6-0 mağlubiyetin ardından tepkisini gösterdi.",
+      "body": "Aston Villa maçına yaklaşık 1800 sarı-lacivertli taraftar gitti. Mağlubiyetin ardından taraftar tepkileri haberlere yansıdı.",
+      "cat": "Taraftar",
+      "source": "Sporx",
+      "date": "14.10.2026",
+      "link": "https://www.sporx.com/futbol-fenerbahce",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Nihat Kahveci’den Aston Villa yorumu",
+      "desc": "Eski oyuncu, 6-0 mağlubiyeti değerlendirdi.",
+      "body": "Nihat Kahveci, Şampiyonlar Ligi’nde Aston Villa’ya 6-0 yenilen Fenerbahçe’yi değerlendirdi.",
+      "cat": "Analiz",
+      "source": "Sporx",
+      "date": "14.10.2026",
+      "link": "https://www.sporx.com/futbol-fenerbahce",
+      "sport": "Futbol"
+    },
+    {
       "title": "Fenerbahçe Aston Villa için 23 kişilik kafileyi açıkladı",
       "desc": "Kulüp, Şampiyonlar Ligi 2. hafta deplasmanı için kamp kadrosunu duyurdu.",
       "body": "Fenerbahçe, Şampiyonlar Ligi 2. hafta deplasmanında oynayacağı Aston Villa maçı için 23 kişilik kamp kadrosunu açıkladı. Kadroyu teknik direktör İsmail Kartal belirledi.",
@@ -1736,9 +1901,9 @@
       "name": "Vedat Muriqi",
       "team": "Fenerbahçe",
       "pos": "",
-      "apps": 7,
+      "apps": 8,
       "minutes": null,
-      "goals": 6,
+      "goals": 7,
       "assists": 1,
       "yellow": null,
       "red": null
@@ -2078,13 +2243,37 @@
       "assists": 2,
       "yellow": null,
       "red": null
+    },
+    {
+      "id": "ls-fenerbahce-romelu-lukaku",
+      "name": "Romelu Lukaku",
+      "team": "Fenerbahçe",
+      "pos": "",
+      "apps": null,
+      "minutes": null,
+      "goals": 1,
+      "assists": null,
+      "yellow": null,
+      "red": null
+    },
+    {
+      "id": "ls-fenerbahce-kerem-akt-rko-lu",
+      "name": "Kerem Aktürkoğlu",
+      "team": "Fenerbahçe",
+      "pos": "",
+      "apps": null,
+      "minutes": null,
+      "goals": 1,
+      "assists": null,
+      "yellow": null,
+      "red": null
     }
   ],
   "leagueStatsMeta": {
     "season": "2026/27",
-    "throughWeek": 7,
-    "updatedAt": "2026-10-11T20:54:00+03:00",
-    "source": "Sporkolik gol/asist listeleri (11.10.2026). Listede yalnızca ilk sıradakiler var; diğer oyuncular için veri yok."
+    "throughWeek": 8,
+    "updatedAt": "2026-10-17T23:59:00+03:00",
+    "source": "Muriqi: NET Haber (8. hafta, 7 gol). Lukaku ve Kerem: taraftar bildirimi, kaynakta doğrulanmadı. Diğer oyuncular 7. hafta verisi (Sporkolik)."
   },
   "uclStandings": [
     {
