@@ -30,22 +30,22 @@
       "y": 6
     },
     {
-      "name": "Beşiktaş",
-      "o": 7,
-      "g": 5,
-      "b": 0,
-      "m": 2,
-      "a": 16,
-      "y": 8
-    },
-    {
       "name": "Trabzonspor",
-      "o": 7,
-      "g": 4,
+      "o": 8,
+      "g": 5,
       "b": 1,
       "m": 2,
-      "a": 16,
+      "a": 18,
       "y": 5
+    },
+    {
+      "name": "Beşiktaş",
+      "o": 8,
+      "g": 5,
+      "b": 0,
+      "m": 3,
+      "a": 16,
+      "y": 10
     },
     {
       "name": "Arca Çorum FK",
@@ -1552,6 +1552,66 @@
     ]
   ],
   "news": [
+    {
+      "title": "Galatasaray – Fenerbahçe derbisi 26 Ekim’de",
+      "desc": "Derbi, 26 Ekim Pazartesi saat 21.30’da oynanacak.",
+      "body": "Galatasaray ile Fenerbahçe arasındaki derbi, 26 Ekim Pazartesi günü saat 21.30’da oynanacağı açıklandı.",
+      "cat": "Maç",
+      "source": "Son Dakika Fenerbahçe",
+      "date": "19.10.2026",
+      "link": "https://www.sondakika.com/fenerbahce/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe, Slavia Prag maçına hazır",
+      "desc": "Sarı-lacivertliler Slavia Prag maçı için hazırlıklarını tamamladı.",
+      "body": "Fenerbahçe, Slavia Prag maçına hazır. Prag ekibi de Kadıköy’deki maç için hazırlıklarını tamamladığını açıkladı.",
+      "cat": "Maç",
+      "source": "Fanatik",
+      "date": "19.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Ederson ve ailesinden yardım hareketi",
+      "desc": "Ederson’un eşi Lais Moraes, çocuklarıyla birlikte yardım kolileri hazırladı.",
+      "body": "Ederson Moraes ve eşi Lais Moraes, çocuklarıyla birlikte İstanbul’daki ihtiyaç sahipleri için gıda kolileri hazırladı. Kolileri ailelere bizzat teslim ettiler.",
+      "cat": "Kulüp",
+      "source": "Türkiye Gazetesi",
+      "date": "19.10.2026",
+      "link": "https://www.turkiyegazetesi.com.tr/spor/fenerbahceli-ederson-ve-ailesinden-gonulleri-isitan-hareket-1823827",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Aston Villa’nın Fenerbahçe’nin yıldızına talip olduğu iddia edildi",
+      "desc": "Transfer iddiasına göre İngiliz kulübü Fenerbahçe’nin bir yıldız oyuncusunu istiyor.",
+      "body": "Fanatik’in transfer haberine göre Aston Villa, Fenerbahçe’nin bir yıldız oyuncusunu istiyor. Bu bir iddia olup, kulüplerden resmi bir açıklama yok.",
+      "cat": "Transfer",
+      "source": "Fanatik",
+      "date": "19.10.2026",
+      "link": "https://www.fanatik.com.tr/transfer/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "İsmail Kartal’ın son 13 sezondaki etkisi",
+      "desc": "Haber, teknik direktör İsmail Kartal’ın son 13 sezondaki etkisini ele alıyor.",
+      "body": "Fanatik’in haberinde İsmail Kartal’ın son 13 sezonda Fenerbahçe’de bıraktığı iz değerlendiriliyor. Ayrıntı için kaynağa bakabilirsin.",
+      "cat": "Kulüp",
+      "source": "Fanatik",
+      "date": "19.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Marco Asensio hakkında yeni gelişme",
+      "desc": "Asensio’nun durumu yeniden gündemde.",
+      "body": "Fanatik’in Fenerbahçe sayfasında Marco Asensio ile ilgili yeni bir gelişme yer alıyor. Ayrıntı için kaynağa bakabilirsin.",
+      "cat": "Kulüp",
+      "source": "Fanatik",
+      "date": "19.10.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
     {
       "title": "Fenerbahçe, Alanyaspor’u 3-0 yendi",
       "desc": "Sarı-lacivertliler, Corendon Alanyaspor’u 3-0 mağlup etti.",
