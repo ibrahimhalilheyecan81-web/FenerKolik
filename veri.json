@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "updatedAt": "2026-10-19T23:30:00+03:00",
+  "updatedAt": "2026-10-20T10:00:00+03:00",
   "standings": [
     {
       "name": "Galatasaray",
@@ -1552,6 +1552,66 @@
     ]
   ],
   "news": [
+    {
+      "title": "Fenerbahçe – Slavia Prag maçı bu akşam 19.45’te",
+      "desc": "Şampiyonlar Ligi 3. hafta maçı Chobani Stadyumu’nda oynanacak, TRT 1’den yayınlanacak.",
+      "body": "Fenerbahçe, Şampiyonlar Ligi 3. haftasında Slavia Prag’ı Chobani Stadyumu’nda ağırlayacak. Maç 20 Ekim Salı günü saat 19.45’te başlayacak ve TRT 1’den şifresiz yayınlanacak. Karşılaşmayı İspanyol hakem Ricardo de Burgos yönetecek.",
+      "cat": "Maç",
+      "source": "Fotomaç",
+      "date": "20.10.2026",
+      "link": "https://www.fotomac.com.tr/fenerbahce/2026/10/20/fenerbahce-slavia-prag-maci-ne-zaman-fb-maci-sifresiz-mi",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Slavia Prag öncesi Fenerbahçe’de iki eksik",
+      "desc": "Mert Müldür sakatlığı nedeniyle, Marco Asensio ise ameliyat nedeniyle maçta oynayamayacak.",
+      "body": "Fenerbahçe, Slavia Prag maçında iki oyuncusundan yararlanamayacak. Sakatlığı bulunan Mert Müldür ile önümüzdeki hafta ameliyat edilmesi planlanan Marco Asensio, bu maçta forma giyemeyecek.",
+      "cat": "Maç",
+      "source": "Hürriyet",
+      "date": "20.10.2026",
+      "link": "https://www.hurriyet.com.tr/sporarena/fenerbahce-slavia-prag-maci-ne-zaman-saat-kacta-hangi-kanalda-43347944",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe Slavia Prag hazırlıklarını tamamladı",
+      "desc": "Takım, Can Bartu Tesisleri’ndeki antrenmanla maç öncesi çalışmalarını bitirdi.",
+      "body": "Fenerbahçe, Can Bartu Tesisleri’nde İsmail Kartal yönetiminde son antrenmanını yaptı. Antrenmanın ilk 15 dakikası basına açık gerçekleşti. Mert Müldür ile Marco Asensio antrenmanda yer almadı.",
+      "cat": "Maç",
+      "source": "Sabah",
+      "date": "19.10.2026",
+      "link": "https://www.sabah.com.tr/spor/futbol/2026/10/19/fenerbahce-slavia-prag-maci-hazirliklarini-noktaladi",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe’nin Avrupa’daki 309. maçı",
+      "desc": "Slavia Prag maçı, kulübün Avrupa kupalarındaki 309. karşılaşması olacak.",
+      "body": "Fenerbahçe, Slavia Prag maçıyla Avrupa kupalarındaki 309. karşılaşmasına çıkacak. Kulüp, Çek takımlarına karşı da 17. kez karşılaşacak.",
+      "cat": "Analiz",
+      "source": "Milliyet",
+      "date": "20.10.2026",
+      "link": "https://www.milliyet.com.tr/skorer/live-sampiyonlar-liginde-fenerbahce-slavia-pragi-konuk-ediyor-7683316",
+      "sport": "Futbol"
+    },
+    {
+      "title": "İsmail Kartal’dan sakatlık açıklaması",
+      "desc": "Teknik direktör, Slavia Prag öncesi sakatlık durumu hakkında konuştu.",
+      "body": "Fenerbahçe Teknik Direktörü İsmail Kartal, Slavia Prag maçı öncesi basın açıklaması yaptı ve oyuncuların sakatlık durumuna değindi. Ayrıntılar için kaynağa bakabilirsin.",
+      "cat": "Kulüp",
+      "source": "Sporx",
+      "date": "20.10.2026",
+      "link": "https://www.sporx.com/futbol-fenerbahce",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Nathan Aké’den Ederson için itiraf",
+      "desc": "Savunmacı Nathan Aké, kaleci Ederson hakkında konuştu.",
+      "body": "Fenerbahçe’nin Hollandalı savunmacısı Nathan Aké, Şampiyonlar Ligi 3. hafta öncesi kaleci Ederson hakkında bir açıklamada bulundu. Ayrıntı için kaynağa bakabilirsin.",
+      "cat": "Kulüp",
+      "source": "Sporx",
+      "date": "20.10.2026",
+      "link": "https://www.sporx.com/futbol-fenerbahce",
+      "sport": "Futbol"
+    },
     {
       "title": "Galatasaray – Fenerbahçe derbisi 26 Ekim’de",
       "desc": "Derbi, 26 Ekim Pazartesi saat 21.30’da oynanacak.",
