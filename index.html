@@ -653,8 +653,8 @@ function computeTeamStats(){if(!data)return;const sl=(data.standings||[]).find(x
  if(rows.length)data.stats=rows}
 function loadPhotos(){try{return JSON.parse(storeGet('f1907_photos')||'{}')}catch(e){return {}}}
 const PLAYER_PHOTOS={};
-function photoSlug(n){return String(n||'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ı/g,'i').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')}
-function applyLocalPhotos(){(data.players||[]).forEach(p=>{if((p.team||'Fenerbahçe')!=='Fenerbahçe')return;if(PLAYER_PHOTOS[p.name])p.photo=PLAYER_PHOTOS[p.name];else p.photo=photoSlug(p.name)+'.png'})}
+function photoSlug(n){return String(n||'').replace(/['’`]/g,'').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ı/g,'i').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')}
+function applyLocalPhotos(){(data.players||[]).forEach(p=>{if((p.team||'Fenerbahçe')!=='Fenerbahçe')return;if(PLAYER_PHOTOS[p.name])p.photo=PLAYER_PHOTOS[p.name];else p.photo=(({'Tarık Çetin':'tark-cetin'})[p.name]||photoSlug(p.name))+'.png'})}
 function setPlayerPhoto(name,file){if(!name||!file)return;if(!/^image\//.test(file.type)){toast('Sadece görsel dosyası seçebilirsin.');return}
  const r=new FileReader();r.onload=()=>{const im=new Image();im.onload=()=>{const c=document.createElement('canvas');c.width=240;c.height=240;const g=c.getContext('2d');const k=Math.max(240/im.width,240/im.height);const w=im.width*k,h=im.height*k;g.drawImage(im,(240-w)/2,(240-h)/2,w,h);const url=c.toDataURL('image/jpeg',0.85);const ph=loadPhotos();if(!ph[name]&&Object.keys(ph).length>=40){toast('En fazla 40 fotoğraf ekleyebilirsin.');return}ph[name]=url;try{storeSet('f1907_photos',JSON.stringify(ph));toast('Fotoğraf kaydedildi.')}catch(e){toast('Fotoğraf kaydedilemedi (depolama dolu).')}applyLocalPhotos();renderPlayers();renderPhotoBox()};im.src=r.result};r.readAsDataURL(file)}
 function removePlayerPhoto(enc){const name=decodeURIComponent(enc);const ph=loadPhotos();delete ph[name];try{storeSet('f1907_photos',JSON.stringify(ph))}catch(e){}(data.players||[]).forEach(p=>{if(p.name===name)p.photo=''});renderPlayers();renderPhotoBox()}
