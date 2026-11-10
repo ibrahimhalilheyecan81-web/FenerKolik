@@ -1,168 +1,168 @@
 {
   "version": "2.2",
-  "updatedAt": "2026-11-05T13:00:00+03:00",
+  "updatedAt": "2026-11-09T13:00:00+03:00",
   "standings": [
     {
       "name": "Galatasaray",
-      "o": 10,
-      "g": 8,
+      "o": 11,
+      "g": 9,
       "b": 1,
       "m": 1,
+      "a": 27,
+      "y": 15
+    },
+    {
+      "name": "Trabzonspor",
+      "o": 11,
+      "g": 8,
+      "b": 1,
+      "m": 2,
+      "a": 26,
+      "y": 8
+    },
+    {
+      "name": "Amed Sportif Faaliyetler",
+      "o": 11,
+      "g": 7,
+      "b": 2,
+      "m": 2,
+      "a": 28,
+      "y": 15
+    },
+    {
+      "name": "Beşiktaş",
+      "o": 11,
+      "g": 7,
+      "b": 1,
+      "m": 3,
       "a": 23,
       "y": 12
     },
     {
-      "name": "Amed Sportif Faaliyetler",
-      "o": 10,
-      "g": 7,
-      "b": 2,
-      "m": 1,
-      "a": 25,
-      "y": 11
-    },
-    {
-      "name": "Trabzonspor",
-      "o": 10,
-      "g": 7,
-      "b": 1,
-      "m": 2,
-      "a": 24,
-      "y": 8
-    },
-    {
-      "name": "Beşiktaş",
-      "o": 10,
-      "g": 6,
-      "b": 1,
-      "m": 3,
-      "a": 20,
-      "y": 12
-    },
-    {
       "name": "Kasımpaşa",
-      "o": 10,
-      "g": 4,
+      "o": 11,
+      "g": 5,
       "b": 5,
       "m": 1,
-      "a": 15,
+      "a": 17,
       "y": 11
-    },
-    {
-      "name": "Fenerbahçe",
-      "o": 10,
-      "g": 5,
-      "b": 1,
-      "m": 4,
-      "a": 24,
-      "y": 10
-    },
-    {
-      "name": "Arca Çorum FK",
-      "o": 10,
-      "g": 5,
-      "b": 1,
-      "m": 4,
-      "a": 21,
-      "y": 16
     },
     {
       "name": "Kocaelispor",
-      "o": 10,
-      "g": 5,
+      "o": 11,
+      "g": 6,
       "b": 1,
       "m": 4,
-      "a": 11,
+      "a": 13,
       "y": 9
     },
     {
-      "name": "Göztepe",
-      "o": 10,
-      "g": 4,
-      "b": 3,
-      "m": 3,
-      "a": 21,
-      "y": 17
+      "name": "Fenerbahçe",
+      "o": 11,
+      "g": 6,
+      "b": 1,
+      "m": 4,
+      "a": 29,
+      "y": 10
     },
     {
       "name": "İstanbul Başakşehir",
-      "o": 10,
-      "g": 4,
+      "o": 11,
+      "g": 5,
       "b": 2,
       "m": 4,
-      "a": 17,
-      "y": 16
-    },
-    {
-      "name": "Erzurumspor",
-      "o": 10,
-      "g": 4,
-      "b": 2,
-      "m": 4,
-      "a": 9,
-      "y": 15
-    },
-    {
-      "name": "Corendon Alanyaspor",
-      "o": 10,
-      "g": 3,
-      "b": 3,
-      "m": 4,
-      "a": 9,
-      "y": 16
-    },
-    {
-      "name": "Çaykur Rizespor",
-      "o": 10,
-      "g": 3,
-      "b": 2,
-      "m": 5,
-      "a": 11,
-      "y": 15
-    },
-    {
-      "name": "Gençlerbirliği",
-      "o": 10,
-      "g": 3,
-      "b": 2,
-      "m": 5,
-      "a": 12,
-      "y": 18
-    },
-    {
-      "name": "Konyaspor",
-      "o": 10,
-      "g": 2,
-      "b": 2,
-      "m": 6,
-      "a": 6,
-      "y": 13
-    },
-    {
-      "name": "Gaziantep FK",
-      "o": 10,
-      "g": 2,
-      "b": 2,
-      "m": 6,
-      "a": 9,
+      "a": 19,
       "y": 17
     },
     {
+      "name": "Arca Çorum FK",
+      "o": 11,
+      "g": 5,
+      "b": 1,
+      "m": 5,
+      "a": 21,
+      "y": 21
+    },
+    {
+      "name": "Göztepe",
+      "o": 11,
+      "g": 4,
+      "b": 3,
+      "m": 4,
+      "a": 22,
+      "y": 19
+    },
+    {
+      "name": "Erzurumspor",
+      "o": 11,
+      "g": 4,
+      "b": 2,
+      "m": 5,
+      "a": 10,
+      "y": 17
+    },
+    {
+      "name": "Çaykur Rizespor",
+      "o": 11,
+      "g": 4,
+      "b": 2,
+      "m": 5,
+      "a": 13,
+      "y": 16
+    },
+    {
+      "name": "Corendon Alanyaspor",
+      "o": 11,
+      "g": 3,
+      "b": 3,
+      "m": 5,
+      "a": 9,
+      "y": 18
+    },
+    {
+      "name": "Gençlerbirliği",
+      "o": 11,
+      "g": 3,
+      "b": 2,
+      "m": 6,
+      "a": 12,
+      "y": 21
+    },
+    {
+      "name": "Konyaspor",
+      "o": 11,
+      "g": 2,
+      "b": 2,
+      "m": 7,
+      "a": 6,
+      "y": 14
+    },
+    {
+      "name": "Gaziantep FK",
+      "o": 11,
+      "g": 2,
+      "b": 2,
+      "m": 7,
+      "a": 9,
+      "y": 19
+    },
+    {
       "name": "Samsunspor",
-      "o": 10,
-      "g": 1,
+      "o": 11,
+      "g": 2,
       "b": 1,
       "m": 8,
-      "a": 10,
+      "a": 11,
       "y": 26
     },
     {
       "name": "Eyüpspor",
-      "o": 10,
+      "o": 11,
       "g": 1,
       "b": 0,
-      "m": 9,
+      "m": 10,
       "a": 3,
-      "y": 28
+      "y": 30
     }
   ],
   "matches": [
@@ -349,14 +349,37 @@
       "week": 11,
       "home": "Arca Çorum FK",
       "away": "Fenerbahçe",
-      "score": "",
+      "score": "0-5",
       "date": "2026-11-08T16:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-11",
       "inBaseline": false,
       "sport": "Futbol",
       "detail": {
-        "stadium": "Çorum Şehir Stadyumu"
+        "stadium": "Çorum Şehir Stadyumu",
+        "goals": [
+          {
+            "player": "Mason Greenwood (Fenerbahçe)",
+            "minute": ""
+          },
+          {
+            "player": "Mason Greenwood (Fenerbahçe)",
+            "minute": ""
+          },
+          {
+            "player": "İrfan Can Kahveci (Fenerbahçe)",
+            "minute": ""
+          },
+          {
+            "player": "İrfan Can Kahveci (Fenerbahçe)",
+            "minute": ""
+          },
+          {
+            "player": "Oğuz Aydın (Fenerbahçe)",
+            "minute": ""
+          }
+        ],
+        "goalsNote": "Kullanıcı bildirimi, dakikalar doğrulanmadı."
       },
       "prediction": null,
       "motmVotes": {}
@@ -783,7 +806,7 @@
           },
           {
             "player": "Vedat Muriqi (Fenerbahçe)",
-            "minute": ""
+            "minute": "29"
           },
           {
             "player": "Archie Brown (Fenerbahçe)",
@@ -935,26 +958,6 @@
       "name": "Kuzey Sapaz",
       "pos": "Kaleci",
       "number": 75,
-      "apps": 0,
-      "goals": null,
-      "assists": null,
-      "age": null,
-      "nationality": "",
-      "heightCm": null,
-      "foot": "",
-      "contractEnd": "",
-      "photo": "",
-      "leagueApps": null,
-      "leagueGoals": null,
-      "leagueAssists": null,
-      "uefaApps": 0,
-      "uefaGoals": null,
-      "uefaAssists": null
-    },
-    {
-      "name": "Yasir Çaklı",
-      "pos": "Kaleci",
-      "number": 89,
       "apps": 0,
       "goals": null,
       "assists": null,
@@ -1132,46 +1135,6 @@
       "uefaAssists": null
     },
     {
-      "name": "Bedirhan Korkmaz",
-      "pos": "Defans",
-      "number": 82,
-      "apps": 0,
-      "goals": null,
-      "assists": null,
-      "age": null,
-      "nationality": "",
-      "heightCm": null,
-      "foot": "",
-      "contractEnd": "",
-      "photo": "",
-      "leagueApps": null,
-      "leagueGoals": null,
-      "leagueAssists": null,
-      "uefaApps": 0,
-      "uefaGoals": null,
-      "uefaAssists": null
-    },
-    {
-      "name": "Gökmen Özdemir",
-      "pos": "Defans",
-      "number": 86,
-      "apps": 0,
-      "goals": null,
-      "assists": null,
-      "age": null,
-      "nationality": "",
-      "heightCm": null,
-      "foot": "",
-      "contractEnd": "",
-      "photo": "",
-      "leagueApps": null,
-      "leagueGoals": null,
-      "leagueAssists": null,
-      "uefaApps": 0,
-      "uefaGoals": null,
-      "uefaAssists": null
-    },
-    {
       "name": "Archie Brown",
       "pos": "Defans",
       "number": 3,
@@ -1310,86 +1273,6 @@
       "uefaApps": 6,
       "uefaGoals": 1,
       "uefaAssists": 0
-    },
-    {
-      "name": "Efe Fettahoğlu",
-      "pos": "Orta saha",
-      "number": 80,
-      "apps": 0,
-      "goals": null,
-      "assists": null,
-      "age": null,
-      "nationality": "",
-      "heightCm": null,
-      "foot": "",
-      "contractEnd": "",
-      "photo": "",
-      "leagueApps": null,
-      "leagueGoals": null,
-      "leagueAssists": null,
-      "uefaApps": 0,
-      "uefaGoals": null,
-      "uefaAssists": null
-    },
-    {
-      "name": "Emin Sayar",
-      "pos": "Orta saha",
-      "number": 84,
-      "apps": 0,
-      "goals": null,
-      "assists": null,
-      "age": null,
-      "nationality": "",
-      "heightCm": null,
-      "foot": "",
-      "contractEnd": "",
-      "photo": "",
-      "leagueApps": null,
-      "leagueGoals": null,
-      "leagueAssists": null,
-      "uefaApps": 0,
-      "uefaGoals": null,
-      "uefaAssists": null
-    },
-    {
-      "name": "Güner Ekici",
-      "pos": "Orta saha",
-      "number": 85,
-      "apps": 0,
-      "goals": null,
-      "assists": null,
-      "age": null,
-      "nationality": "",
-      "heightCm": null,
-      "foot": "",
-      "contractEnd": "",
-      "photo": "",
-      "leagueApps": null,
-      "leagueGoals": null,
-      "leagueAssists": null,
-      "uefaApps": 0,
-      "uefaGoals": null,
-      "uefaAssists": null
-    },
-    {
-      "name": "Emirhan Ateş",
-      "pos": "Orta saha",
-      "number": 90,
-      "apps": 0,
-      "goals": null,
-      "assists": null,
-      "age": null,
-      "nationality": "",
-      "heightCm": null,
-      "foot": "",
-      "contractEnd": "",
-      "photo": "",
-      "leagueApps": null,
-      "leagueGoals": null,
-      "leagueAssists": null,
-      "uefaApps": 0,
-      "uefaGoals": null,
-      "uefaAssists": null
     },
     {
       "name": "N’Golo Kanté",
@@ -1584,23 +1467,43 @@
   ],
   "news": [
     {
-      "title": "Fenerbahçe, Liverpool'u 3-2 yendi",
-      "desc": "Şampiyonlar Ligi 4. hafta maçında sarı-lacivertliler Liverpool’u mağlup etti.",
-      "body": "Fenerbahçe, Şampiyonlar Ligi lig aşamasının 4. haftasında Liverpool’u 3-2 mağlup etti. Galibiyetin ardından basın ve taraftarlar bu sonucu büyük bir zafer olarak yorumladı. Skor ve gol bilgileri maç kaydında yer alıyor.",
+      "title": "Fenerbahçe, Arca Çorum FK maçına hazır",
+      "desc": "Sarı-lacivertliler, Çorum deplasmanı için kafilesini belirledi.",
+      "body": "Fenerbahçe, Süper Lig 11. hafta deplasmanı için hazırlıklarını tamamladı. Kafilede Ederson Moraes, Mert Günok, Tarık Çetin, Nelson Semedo, Milan Škriniar, Yiğit Efe Demir, Kojo Peprah Oppong, Levent Mercan, Mert Müldür, N’Golo Kanté ve İsmail Yüksek gibi isimler yer alıyor.",
       "cat": "Maç",
-      "source": "Fanatik",
-      "date": "04.11.2026",
-      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "source": "DHA",
+      "date": "07.11.2026",
+      "link": "https://www.fenerbahce.org/haberler/futbol/2026/11/arca-corum-fk-maci-hazirliklari-tamamlandi",
       "sport": "Futbol"
     },
     {
-      "title": "Mason Greenwood takımla çalışmalara döndü",
-      "desc": "Liverpool maçının son hazırlıklarında Greenwood yeniden antrenmana katıldı.",
-      "body": "Liverpool maçının son hazırlığını tamamlayan Fenerbahçe’de Mason Greenwood takımla çalışmalara döndü.",
+      "title": "Arca Çorum FK maçının kamp kadrosu açıklandı",
+      "desc": "Kulüp, Çorum deplasmanı için kamp kadrosunu duyurdu.",
+      "body": "Fenerbahçe, Arca Çorum FK maçının kamp kadrosunu açıkladı. Maç 8 Kasım Pazar günü saat 16.00’da Çorum Şehir Stadyumu’nda oynanacak.",
+      "cat": "Maç",
+      "source": "Fenerbahçe SK",
+      "date": "07.11.2026",
+      "link": "https://www.fenerbahce.org/haberler/futbol/2026/11/fenerbahce-miz-arca-corum-fk-deplasmaninda",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Süper Lig 11. hafta: Eyüpspor 0-2 Kocaelispor, Galatasaray 4-3 Amed SK",
+      "desc": "Hafta sonu oynanan maçlarda Galatasaray ve Kocaelispor kazandı.",
+      "body": "Süper Lig’in 11. haftasında Eyüpspor, Kocaelispor’a 0-2 yenildi. Samsunspor, Konyaspor’u 1-0 geçti. Galatasaray, Amed SK’yi 4-3 yendi. Göztepe, Başakşehir’e 1-2 mağlup oldu.",
+      "cat": "Analiz",
+      "source": "Mackolik",
+      "date": "07.11.2026",
+      "link": "https://www.mackolik.com/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe, Emre Belözoğlu yönetiminde hazırlanıyor",
+      "desc": "Teknik direktör Emre Belözoğlu yönetimindeki antrenmanlar sürüyor.",
+      "body": "Fenerbahçe, Can Bartu Tesisleri’nde teknik direktör Emre Belözoğlu yönetiminde antrenman yaptı. Antrenmanda koşu, ısınma, pas çalışması ve taktiksel çalışmalar yer aldı.",
       "cat": "Kulüp",
-      "source": "Milliyet",
-      "date": "04.11.2026",
-      "link": "https://www.milliyet.com.tr/skorer/fenerbahce-haberleri/",
+      "source": "Fenerbahçe SK",
+      "date": "06.11.2026",
+      "link": "https://www.fenerbahce.org/haberler/futbol/2026/11/arca-corum-fk-maci-hazirliklari-suruyor",
       "sport": "Futbol"
     },
     {
@@ -1681,6 +1584,36 @@
       "source": "Fanatik",
       "date": "05.11.2026",
       "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe, Liverpool’u tarihi galibiyetle geçti",
+      "desc": "Şampiyonlar Ligi’nde 3-2 galibiyet. Vedat Muriqi 29. dakikada gol attı.",
+      "body": "Fenerbahçe, Şampiyonlar Ligi’nde Liverpool’u 3-2 yendi. Muriqi 29. dakikada kaydettiği golle takıma öncülük etti.",
+      "cat": "Maç",
+      "source": "Fenerbahçe SK",
+      "date": "04.11.2026",
+      "link": "https://www.fenerbahce.org/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Fenerbahçe, Liverpool'u 3-2 yendi",
+      "desc": "Şampiyonlar Ligi 4. hafta maçında sarı-lacivertliler Liverpool’u mağlup etti.",
+      "body": "Fenerbahçe, Şampiyonlar Ligi lig aşamasının 4. haftasında Liverpool’u 3-2 mağlup etti. Galibiyetin ardından basın ve taraftarlar bu sonucu büyük bir zafer olarak yorumladı. Skor ve gol bilgileri maç kaydında yer alıyor.",
+      "cat": "Maç",
+      "source": "Fanatik",
+      "date": "04.11.2026",
+      "link": "https://www.fanatik.com.tr/takim/fenerbahce/futbol/",
+      "sport": "Futbol"
+    },
+    {
+      "title": "Mason Greenwood takımla çalışmalara döndü",
+      "desc": "Liverpool maçının son hazırlıklarında Greenwood yeniden antrenmana katıldı.",
+      "body": "Liverpool maçının son hazırlığını tamamlayan Fenerbahçe’de Mason Greenwood takımla çalışmalara döndü.",
+      "cat": "Kulüp",
+      "source": "Milliyet",
+      "date": "04.11.2026",
+      "link": "https://www.milliyet.com.tr/skorer/fenerbahce-haberleri/",
       "sport": "Futbol"
     }
   ],
