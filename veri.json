@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "updatedAt": "2026-11-09T13:00:00+03:00",
+  "updatedAt": "2026-11-09T23:30:00+03:00",
   "standings": [
     {
       "name": "Galatasaray",
@@ -353,7 +353,7 @@
       "date": "2026-11-08T16:00:00+03:00",
       "comp": "Süper Lig",
       "id": "legacy-11",
-      "inBaseline": false,
+      "inBaseline": true,
       "sport": "Futbol",
       "detail": {
         "stadium": "Çorum Şehir Stadyumu",
